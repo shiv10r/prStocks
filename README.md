@@ -1,4 +1,4 @@
-# prStocks
+#Stocks
 Stock Market Prediction  using Machine Learning  and  Setimental  Analysis(Deep learning Algorithem )
 Steps :  1  Upload   the    code 
          2 :  Train the  data  over various  multiple  models  and   real  time  data  sets 
