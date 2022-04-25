@@ -1,5 +1,10 @@
 # prStocks
 Stock Market Prediction  using Machine Learning  and  Setimental  Analysis(Deep learning Algorithem )
+Steps :  1  Upload   the    code 
+         2 :  Train the  data  over various  multiple  models  and   real  time  data  sets 
+         3:  Test  the   data  set   over the  cases  and  use  the  for the  result
+         4 : Matplot  lib    use to   print  the   graph  of the  result  outcome 
+
 Lstm:
 Long Short Term Memory networks — usually just called LSTMs — are a special kind of RNN, capable of learning long-term dependencies. Refined and popularized by many people in following work. They work tremendously well on a large variety of sequence modelling problems, and are now widely used. LSTMs are explicitly designed to avoid the
 long-term dependency problem. Remembering information for long periods of time is their default behavior.
